@@ -1,0 +1,13 @@
+# Exclude environment files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Other
+*.log
+*.tmp
